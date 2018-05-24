@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.excelsior.edu/");
+header("Location: http://www.nygiantsbaseball.org/");
 die();
 ?>
